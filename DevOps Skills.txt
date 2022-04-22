@@ -1,0 +1,9 @@
+Good in Linux and should understand one scripting language.
+One Cloud Platform
+Basic understanding of DB like mysql or psql
+Container like Docker and kubernates.
+Any Scripting Language (Python, bash, perl, shell)
+Monitoring tools
+jenkins
+Ansible
+
